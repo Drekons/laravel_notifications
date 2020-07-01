@@ -1,6 +1,6 @@
 {
     "name": "drek/laravel_notifications",
-    "description": "User notification in Laravel",
+    "description": "User notification in Laravel (beta)",
     "type": "laravel-plugin",
     "authors": [
         {
